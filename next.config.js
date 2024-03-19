@@ -11,7 +11,7 @@ const nextConfig = withStoreConfig({
     remotePatterns: [
       {
         protocol: "http",
-        hostname: "localhost",
+        hostname: "https://seal-app-aqdpj.ondigitalocean.app",
       },
       {
         protocol: "https",
